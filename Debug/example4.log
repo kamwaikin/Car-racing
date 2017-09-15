@@ -1,0 +1,3 @@
+﻿diManager.obj : warning LNK4075: 忽略 '/EDITANDCONTINUE'，由於 '/SAFESEH' 規格
+dxerr.lib(dxerra.obj) : error LNK2019: 無法解析的外部符號 __vsnprintf 在函式 "long __stdcall StringVPrintfWorkerA(char *,unsigned int,unsigned int *,char const *,char *)" (?StringVPrintfWorkerA@@YGJPADIPAIPBD0@Z) 中被參考
+Debug\example4.exe : fatal error LNK1120: 1 個無法解析的外部符號
